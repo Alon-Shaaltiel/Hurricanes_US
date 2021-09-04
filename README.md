@@ -7,8 +7,8 @@ I hope this change will force bad habits out and allow others to more easily joi
 If you are interested in contributing please contact me at: Shaaltiel.Alon@gmail.com :)  
 
 ## What we'll be working on
-1. Separating data collection and analysis.
-2. Moving to Jupyter notebooks.
+1. ~~Separating data collection and analysis.~~
+2. ~~Moving to Jupyter notebooks.~~
 3. Making sure we're always using the right tool.
 4. Gathering category 4 hurricane data to get a more statistically significant result.
 5. Using many statistical correlation tests to test how the behaiviour changes before and after a hurricane.
