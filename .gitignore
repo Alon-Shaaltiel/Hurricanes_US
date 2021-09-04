@@ -1,5 +1,4 @@
 .ipynb_checkpoints/
-!/*.pickle
-!/*.py
 *.pickle
 *.py
+!Pickles/*.pickle
