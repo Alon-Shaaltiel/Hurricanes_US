@@ -1,3 +1,7 @@
+## This project is on a short break
+In the mean time, I am improving my submission to Kaggle's Titanic competition [here](https://github.com/Alon-Shaaltiel/Titanic_ML).  
+
+
 ## Do category 5 hurricanes change house price behaviour in the US?
 
 That is the question we aim to answer using various statistical methods.
@@ -5,9 +9,6 @@ That is the question we aim to answer using various statistical methods.
 The project is currently being reorganized. 
 I hope this change will force bad habits out and allow others to more easily join.  
 If you are interested in contributing please contact me at: Shaaltiel.Alon@gmail.com :)  
-
-## This project is on a short break
-In the mean time, I am improving my submission to Kaggle's Titanic competition [here](https://github.com/Alon-Shaaltiel/Titanic_ML).
 
 ## What we'll be working on
 1. ~~Separating data collection and analysis.~~
