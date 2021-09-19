@@ -1,5 +1,5 @@
 ## This project is on a short break
-In the mean time, I am improving my submission to Kaggle's Titanic competition [here](https://github.com/Alon-Shaaltiel/Titanic_ML).  
+In the meantime, I am improving my submission to Kaggle's Titanic competition [here](https://github.com/Alon-Shaaltiel/Titanic_ML).  
 
 
 ## Do category 5 hurricanes change house price behaviour in the US?
