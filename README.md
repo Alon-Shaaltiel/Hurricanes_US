@@ -1,20 +1,5 @@
-## This project is on a short break
-In the meantime, I am improving my submission to Kaggle's Titanic competition [here](https://github.com/Alon-Shaaltiel/Titanic_ML).  
-
-
-## Do category 5 hurricanes change house price behaviour in the US?
-
-That is the question we aim to answer using various statistical methods.
-
-The project is currently being reorganized. 
-I hope this change will force bad habits out and allow others to more easily join.  
-If you are interested in contributing please contact me at: Shaaltiel.Alon@gmail.com :)  
-
-## What we'll be working on
-1. ~~Separating data collection and analysis.~~
-2. ~~Moving to Jupyter notebooks.~~
-3. Making sure we're always using the right tool.
-4. Gathering category 4 hurricane data to get a more statistically significant result.
-5. Using statistical correlation tests to test how the behaiviour changes before and after a hurricane (Event study).
-6. Estimating the "All-Things-Considered Impact" (**on housing market**) of each hurricane .
-7. Addressing possible biases.
+## This project is terminated
+I have come to realise that I do not possess the knowledge required for this project. 
+I have learned a lot by failing, I did not have accurate enough housing data and lacked solid hurricane data, as such, nothing could have come of it. I did not have a clear economic metric which would decide whether a hurricane affected an area.
+I am currently improving my data science skills with theoretical and practical knowledge using Kaggle competitions and online courses.
+I will start improving https://github.com/Alon-Shaaltiel/Titanic_ML over time.
